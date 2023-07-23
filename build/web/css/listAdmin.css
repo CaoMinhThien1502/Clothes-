@@ -1,0 +1,88 @@
+.list-acc{
+    margin-left: 140px;
+    min-height: 100vh;
+    background-color: #d5d5d5;
+}
+.list-acc table{
+    margin: 20px auto;
+    width: 80%;
+    text-align: center;
+}
+.list-acc table td,
+.list-acc table th{
+    border: 1px solid black;
+    padding:5px;
+}
+.list-acc table tr:nth-child(odd){
+    background-color: #eae8e8;
+}
+.list-acc table tr:hover{
+    background-color: #00000033;
+
+}
+.list-acc table a{
+    text-decoration: none;
+    color:black;
+}
+.search-input{
+    padding-top: 55px;
+    text-align: center;
+}
+.list-clothes{
+    margin-left: 140px;
+    min-height: 100vh;
+    background-color: #d5d5d5;
+}
+.list-order{
+    margin-left: 140px;
+    min-height: 100vh;
+    background-color: #d5d5d5; 
+    padding: 0;
+}
+.list-order table{
+    margin: 20px auto;
+    width: 80%;
+    text-align: center;
+}
+.list-order table td,
+.list-order table th{
+    border: 1px solid black;
+    padding:5px;
+}
+.list-order table tr:nth-child(odd){
+    background-color: #eae8e8;
+}
+.list-order table tr:hover{
+    background-color: #00000033;
+}
+.list-order table a{
+    text-decoration: none;
+    color:black;
+}
+
+.list-clothes{
+    margin-left: 140px;
+    min-height: 100vh;
+    background-color: #d5d5d5; 
+    padding: 0;
+    width: 100%;
+}
+.list-clothes table{
+    width: 80%;
+    text-align: center;
+}
+.list-clothes table td,
+.list-clothes table th{
+    border: 1px solid black;
+    padding:5px;
+}
+.list-clothes table tr:nth-child(odd){
+    background-color: #eae8e8;
+}
+.list-clothes table tr:hover{
+    background-color: #00000033;
+}
+.list-clothes table a{
+    text-decoration: none;
+    color:black;
+}

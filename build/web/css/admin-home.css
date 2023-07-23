@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-admin{
+    float: left;
+    position: fixed;
+    min-height: 100vh;
+    width: 140px;
+   overflow-x: hidden;
+    background-color:black;
+}
+.nav-admin a{
+    text-decoration: none;
+    color:white;
+    font-size: 26px;
+    font-family: sans-serif;
+}
+.nav-admin ul{
+    margin:0;
+    padding: 0;
+}
+.nav-admin li{
+    list-style-type: none;
+   margin: 60px 20px;
+}
